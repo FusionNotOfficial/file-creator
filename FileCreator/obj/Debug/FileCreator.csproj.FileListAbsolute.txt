@@ -1,0 +1,8 @@
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\bin\Debug\FileCreator.exe.config
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\bin\Debug\FileCreator.exe
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\bin\Debug\FileCreator.pdb
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\obj\Debug\FileCreator.csproj.AssemblyReference.cache
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\obj\Debug\FileCreator.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\obj\Debug\FileCreator.csproj.CoreCompileInputs.cache
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\obj\Debug\FileCreator.exe
+F:\Visual Studio\TestProjects\FileCreator\FileCreator\obj\Debug\FileCreator.pdb
